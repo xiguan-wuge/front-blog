@@ -67,7 +67,7 @@
 4. 查找ASCII表，找到每个字节对应的字符
 
 ASCII表：
-![ASCII表](base64Img/ASCII-table.jpeg)
+![ASCII表](../../.vuepress/public/js/base64Img/ASCII-table.jpeg)
 
 
 
