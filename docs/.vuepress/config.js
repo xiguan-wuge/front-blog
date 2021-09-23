@@ -30,13 +30,21 @@ module.exports = {
           collapsable: false, // 是否折叠, false-展开，true-折叠
           sidebarDepth: 1,
           children: [
-            // [ 'html.md', 'html' ],
-            // [ 'websocket.md', 'websocket' ],
-            // [ 'tags.md', 'tags' ],
             'html',
             'websocket',
             'tags'
 
+          ]
+        }
+      ],
+      '/pages/js/': [
+        {
+          title: 'js', // 一级菜单
+          collapsable: false, // 是否折叠, false-展开，true-折叠
+          sidebarDepth: 1,
+          children: [
+            'js',
+            'base64详解',
           ]
         }
       ]
