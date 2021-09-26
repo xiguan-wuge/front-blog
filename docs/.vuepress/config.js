@@ -45,6 +45,13 @@ module.exports = {
           children: [
             'js',
             'base64详解',
+            {
+              title: '继承', // 一级菜单
+              children: [
+                '寄生式继承',
+                '寄生组合式继承'
+              ]
+            }
           ]
         }
       ]
