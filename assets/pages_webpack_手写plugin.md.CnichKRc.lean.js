@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as t}from"./chunks/framework.Ddp2KXB2.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"pages/webpack/手写plugin.md","filePath":"pages/webpack/手写plugin.md"}'),p={name:"pages/webpack/手写plugin.md"};function n(s,c,r,o,i,_){return a(),t("div")}const m=e(p,[["render",n]]);export{d as __pageData,m as default};

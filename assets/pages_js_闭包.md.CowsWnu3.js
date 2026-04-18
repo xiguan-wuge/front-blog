@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./chunks/framework.Ddp2KXB2.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"pages/js/闭包.md","filePath":"pages/js/闭包.md"}'),s={name:"pages/js/闭包.md"};function r(o,c,n,p,_,d){return t(),a("div")}const f=e(s,[["render",r]]);export{m as __pageData,f as default};

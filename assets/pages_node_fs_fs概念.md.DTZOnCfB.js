@@ -1,0 +1,1 @@
+import{_ as e,o as s,c as t}from"./chunks/framework.Ddp2KXB2.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"pages/node/fs/fs概念.md","filePath":"pages/node/fs/fs概念.md"}'),a={name:"pages/node/fs/fs概念.md"};function o(n,r,c,f,p,d){return s(),t("div")}const m=e(a,[["render",o]]);export{i as __pageData,m as default};

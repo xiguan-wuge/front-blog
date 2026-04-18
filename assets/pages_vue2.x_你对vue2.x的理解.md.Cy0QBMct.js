@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./chunks/framework.Ddp2KXB2.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"pages/vue2.x/你对vue2.x的理解.md","filePath":"pages/vue2.x/你对vue2.x的理解.md"}'),s={name:"pages/vue2.x/你对vue2.x的理解.md"};function r(o,_,c,n,p,u){return t(),a("div")}const x=e(s,[["render",r]]);export{i as __pageData,x as default};

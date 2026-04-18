@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./chunks/framework.Ddp2KXB2.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"pages/js/继承/寄生式继承.md","filePath":"pages/js/继承/寄生式继承.md"}'),s={name:"pages/js/继承/寄生式继承.md"};function r(o,_,c,n,p,d){return t(),a("div")}const f=e(s,[["render",r]]);export{m as __pageData,f as default};

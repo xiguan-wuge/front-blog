@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./chunks/framework.Ddp2KXB2.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"pages/js/继承/组合继承.md","filePath":"pages/js/继承/组合继承.md"}'),s={name:"pages/js/继承/组合继承.md"};function r(o,c,n,_,p,d){return t(),a("div")}const f=e(s,[["render",r]]);export{m as __pageData,f as default};

@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as e}from"./chunks/framework.Ddp2KXB2.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"pages/http/ajax原理.md","filePath":"pages/http/ajax原理.md"}'),s={name:"pages/http/ajax原理.md"};function r(o,p,c,n,_,d){return t(),e("div")}const f=a(s,[["render",r]]);export{m as __pageData,f as default};

@@ -1,0 +1,1 @@
+import{_ as e,o as s,c as t}from"./chunks/framework.Ddp2KXB2.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"pages/css/样式兼容性问题.md","filePath":"pages/css/样式兼容性问题.md"}'),a={name:"pages/css/样式兼容性问题.md"};function c(r,_,o,n,p,d){return s(),t("div")}const f=e(a,[["render",c]]);export{m as __pageData,f as default};

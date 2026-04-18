@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as t}from"./chunks/framework.Ddp2KXB2.js";const k=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"pages/webpack/webpak工作流.md","filePath":"pages/webpack/webpak工作流.md"}'),p={name:"pages/webpack/webpak工作流.md"};function s(c,r,o,n,_,d){return a(),t("div")}const m=e(p,[["render",s]]);export{k as __pageData,m as default};

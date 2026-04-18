@@ -1,0 +1,1 @@
+import{_ as e,o as s,c as t}from"./chunks/framework.Ddp2KXB2.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"pages/css/水平垂直居中.md","filePath":"pages/css/水平垂直居中.md"}'),a={name:"pages/css/水平垂直居中.md"};function c(r,o,_,n,p,d){return s(),t("div")}const f=e(a,[["render",c]]);export{m as __pageData,f as default};

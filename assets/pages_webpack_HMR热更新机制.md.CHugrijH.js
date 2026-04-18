@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as t}from"./chunks/framework.Ddp2KXB2.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"pages/webpack/HMR热更新机制.md","filePath":"pages/webpack/HMR热更新机制.md"}'),s={name:"pages/webpack/HMR热更新机制.md"};function c(r,o,p,_,n,d){return a(),t("div")}const f=e(s,[["render",c]]);export{m as __pageData,f as default};
