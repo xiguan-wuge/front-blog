@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as n}from"./chunks/framework.Ddp2KXB2.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"pages/engineering/工程化的理解.md","filePath":"pages/engineering/工程化的理解.md"}'),a={name:"pages/engineering/工程化的理解.md"};function r(s,o,_,i,c,p){return t(),n("div")}const m=e(a,[["render",r]]);export{g as __pageData,m as default};
