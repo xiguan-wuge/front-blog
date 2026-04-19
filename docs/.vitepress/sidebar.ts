@@ -29,5 +29,14 @@ export const sidebar: DefaultTheme.Sidebar = {
         }
       ]
     }
+  ],
+  '/pages/engineering/': [
+    {
+      text: '工程',
+      collapsed: false,
+      items: [
+        { text: 'github workflow 配置', link: '/pages/engineering/github-wokflow' }
+      ]
+    }
   ]
 }

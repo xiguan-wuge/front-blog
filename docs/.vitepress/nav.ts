@@ -7,7 +7,8 @@ export const nav: DefaultTheme.NavItem[] = [
     items: [
       { text: 'html', link: '/pages/html/html' },
       { text: 'css', link: '/pages/css/css' },
-      { text: 'js', link: '/pages/js/js' }
+      { text: 'js', link: '/pages/js/js' },
+      { text: '工程化', link: '/pages/engineering/github-wokflow' }
     ]
   },
   { text: 'github', link: 'https://github.com' }
